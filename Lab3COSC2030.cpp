@@ -19,11 +19,11 @@ int segmentSevenEight(void);
 
 int main()
 {
-	//segmentOne();
-	//segmentTwo();
-	//segmentThree();
-	//segmentFour();
-	//segmentFive();
+	segmentOne();
+	segmentTwo();
+	segmentThree();
+	segmentFour();
+	segmentFive();
 	segmentSevenEight();
 	system("pause");
 }
